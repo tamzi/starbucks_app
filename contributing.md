@@ -1,5 +1,6 @@
 Contributing to starbucks_app
 ===
+
 We'd love to accept your patches!
 To contribute to starbucks_app simply open a pull request against the [develop branch](https://github.com/tamzi/starbucks_app/tree/develop)
 
