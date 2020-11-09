@@ -5,10 +5,9 @@
   <h3 align="center">Starbucks Order APplication</h3>
 
   <p align="center">
-    Brief description about your project. <br>
-   And extra description.
+    A UI screen built with flutter.
     <br>
-     <img src="https://forthebadge.com/images/badges/built-for-android.svg" alt="droidconKE2020 built for Android">
+     <img src="https://img.shields.io/badge/dart-coded%20in%20dart-blue" alt="built with dart">
     <br>
     </p>
 </p>
@@ -33,8 +32,6 @@
 ## About the app
 Starbucks Application done in flutter.
 Check out the UI designs done of the [starbucks App](https://www.behance.net/gallery/101389137/Starbucks-Mobile-App_-UI-Concept?tracking_source=project_owner_other_projects) done by [Michel Achkar](https://www.behance.net/michelachkardesign).
-                                                                                                                                                                                      •
-
 
 <hr>
 ## General Preview
@@ -106,7 +103,7 @@ Add the various things that you are working on.
 ### Want to contribute?
 The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know.
 
-Before you contribute though read the contributing guide here: [COntributing.md{edit this}](https://github.com/YourUserNameHere/ProjectName/contributing.md)
+Before you contribute though read the contributing guide here: [COntributing.md{edit this}](https://github.com/tamzi/starbucks_app/contributing.md)
 
 For any concerns, please open an [issue{edit this}](https://github.com/YourUserNameHere/ProjectName/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/YourUserNameHere/ProjectName/pulls).
 
