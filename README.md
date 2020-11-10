@@ -14,7 +14,7 @@
 
 <br>
 
-### Table of contents
+## Table of contents
 
 **1 [About the App](#about-the-app)**<br>
 **2 [General Preview](#general-preview)**<br>
